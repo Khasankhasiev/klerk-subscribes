@@ -31,7 +31,6 @@
                 class="mt-8 flex justify-center flex-wrap gap-6 text-sm xs:text-base"
             >
                 <Card
-                    class="shadow-xl"
                     supstring="Перед рассветом"
                     title="Утренний бухгалтер"
                     substring="Самые важные новости и события за день. Кратко, по делу, структурировано."

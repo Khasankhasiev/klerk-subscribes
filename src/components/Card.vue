@@ -1,6 +1,6 @@
 <template>
     <div
-        class="card bg-white rounded-[16px] flex shadow p-6 w-full max-w-[476px]"
+        class="card bg-white rounded-[16px] flex p-6 w-full max-w-[476px] cursor-pointer hover:shadow-xl transition"
     >
         <div class="card-main w-[348px] xs:pr-6">
             <div class="supstring text-gray-500 text-sm">{{ supstring }}</div>
