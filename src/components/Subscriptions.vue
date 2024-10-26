@@ -101,5 +101,5 @@
 
 <script setup>
 import FormMail from './FormMail.vue';
-import Card from './Card.vue';
+import Card from './UI/Card.vue';
 </script>
