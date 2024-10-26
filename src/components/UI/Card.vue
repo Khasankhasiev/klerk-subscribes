@@ -24,7 +24,7 @@
 </template>
 
 <script setup>
-import Switch from './UI/Switch.vue';
+import Switch from './Switch.vue';
 
 const props = defineProps({
     supstring: String,

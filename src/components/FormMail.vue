@@ -25,7 +25,6 @@
                         xmlns="http://www.w3.org/2000/svg"
                         xmlns:xlink="http://www.w3.org/1999/xlink"
                     >
-                        <desc>Created with Pixso.</desc>
                         <defs />
                         <path
                             id="Vector"
